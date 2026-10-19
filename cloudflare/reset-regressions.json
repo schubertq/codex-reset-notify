@@ -1,0 +1,477 @@
+{
+  "source": "X official API snapshot; positive IDs reviewed against AIHOT calendar on 2026-10-18; negatives manually reviewed policy posts and chatter",
+  "positive": [
+    "2103637477760311522",
+    "2107913674593644711",
+    "2109812216212099456",
+    "2110595484180214059",
+    "2110595554036400151",
+    "2111492738025959922",
+    "2110618732666257557",
+    "2109873287853707513",
+    "2109812360596865224",
+    "2109132167112782291",
+    "2109045392684032299",
+    "2108040921044639779",
+    "2107913738791596286",
+    "2107676072871600470",
+    "2106239912932692085",
+    "2106233145163141249",
+    "2106131810921136451",
+    "2105843926221660585",
+    "2106239435461579088",
+    "2105173168281506088",
+    "2103963215885701493",
+    "2103911959544610829",
+    "2102463847714247142",
+    "2102254445082116335",
+    "2101352781219258527"
+  ],
+  "negative": [
+    "2105672058269212820",
+    "2106845241357824205",
+    "2107577536779870210",
+    "2107578625419866469",
+    "2109090080497508356",
+    "2111244596131111253"
+  ],
+  "posts": [
+    {
+      "author_id": "14527699",
+      "created_at": "2026-09-18T23:37:38.000Z",
+      "id": "2101093319501664368",
+      "referenced_tweets": [
+        {
+          "id": "2099744972195131850",
+          "type": "quoted"
+        }
+      ],
+      "text": "ok tibo you guys didn’t ship anything interesting this week\n\nyou owe us a banked reset\n\nsorry i don’t make the rules https://t.co/ewu2qXz9cd"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-19T16:48:38.000Z",
+      "id": "2101352781219258527",
+      "referenced_tweets": [
+        {
+          "id": "2101093319501664368",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@udiWertheimer OK fine. But it’s also still coming in Tuesday"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-22T04:31:32.000Z",
+      "id": "2102254445082116335",
+      "text": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-22T16:51:19.000Z",
+      "id": "2102440619616682120",
+      "text": "We have been focusing on efficiency and intelligence for all. \n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-22T18:23:37.000Z",
+      "id": "2102463847714247142",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "openai.com/index/introduc…",
+              "end": 477,
+              "expanded_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+              "start": 454,
+              "url": "https://t.co/00DRh1sRrO"
+            }
+          ]
+        },
+        "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go further too, even on the subscriptions.\n\nAnd one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users. Let's go!\n\nhttps://t.co/00DRh1sRrO"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102440619616682120",
+          "type": "quoted"
+        }
+      ],
+      "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and https://t.co/vbyUhVlKH3"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-25T22:58:00.000Z",
+      "id": "2103620061156290622",
+      "text": "We are aware that codex is down and are working hard to bring back normal service."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-25T23:08:15.000Z",
+      "id": "2103622639386574979",
+      "referenced_tweets": [
+        {
+          "id": "2103620061156290622",
+          "type": "replied_to"
+        }
+      ],
+      "text": "o no :("
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-26T00:07:13.000Z",
+      "id": "2103637477760311522",
+      "referenced_tweets": [
+        {
+          "id": "2103622639386574979",
+          "type": "quoted"
+        }
+      ],
+      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-26T18:17:54.000Z",
+      "id": "2103911959544610829",
+      "text": "Resets all propagated. That will be all. Have a fantastic weekend."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-26T21:41:35.000Z",
+      "id": "2103963215885701493",
+      "referenced_tweets": [
+        {
+          "id": "2103919273353830410",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@giadotai Sorry Gia. More resets coming next week"
+    },
+    {
+      "author_id": "1762175022527877120",
+      "created_at": "2026-09-30T04:47:01.000Z",
+      "id": "2105157445857538064",
+      "text": "i randomly saw that i have 62,393 credits in Codex so i checked how much $ that would cost normally\n\n25,000 credits is $1.5k AUD so this is about $3.7k AUD (~$2.5k USD)\n\nthanks OpenAI for the free credits (is this due to the $200 plan change?) and also the extra banked reset 🫡 https://t.co/8OqP4JxaZO"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-30T05:49:30.000Z",
+      "id": "2105173168281506088",
+      "referenced_tweets": [
+        {
+          "id": "2105157445857538064",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kr0der Yes, check email"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-01T14:51:54.000Z",
+      "id": "2105672058269212820",
+      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-02T02:14:51.000Z",
+      "id": "2105843926221660585",
+      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days."
+    },
+    {
+      "author_id": "829048515787526145",
+      "created_at": "2026-10-02T18:06:52.000Z",
+      "id": "2106083508267724809",
+      "note_tweet": {
+        "text": "i've started hating this reset bullshit so fucking much.\n\n- so i have a reset coming on Sunday anyway, with about 30% left.\n- they announce that the reset will happen on Friday @ 10 am.\n- ok, i don't want to lose my 30%, so i spin up Astra and use it for some big refactoring work i was planning to do over the weekend.\n- there's no reset @ 10 am because their compute power probably can't handle it right now, so they just go completely silent."
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105843926221660585",
+          "type": "quoted"
+        }
+      ],
+      "text": "i've started hating this reset bullshit so fucking much.\n\n- so i have a reset coming on Sunday anyway, with about 30% left.\n- they announce that the reset will happen on Friday @ 10 am.\n- ok, i don't want to lose my 30%, so i spin up Astra and use it for some big refactoring work https://t.co/Q9qc0tOqvS"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-02T21:18:48.000Z",
+      "id": "2106131810921136451",
+      "referenced_tweets": [
+        {
+          "id": "2105843926221660585",
+          "type": "quoted"
+        }
+      ],
+      "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-03T04:01:28.000Z",
+      "id": "2106233145163141249",
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-03T04:26:28.000Z",
+      "id": "2106239435461579088",
+      "referenced_tweets": [
+        {
+          "id": "2106233145163141249",
+          "type": "quoted"
+        }
+      ],
+      "text": "All fixed. Surprising number of Pro 500 users on here. https://t.co/fNbajjszn6"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-03T04:28:21.000Z",
+      "id": "2106239912932692085",
+      "referenced_tweets": [
+        {
+          "id": "2106083508267724809",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_architected Yeah no, that was my bad for not propagating it at 10am quite perfectly. This is something that will be better planned next time, apologies."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-04T04:59:21.000Z",
+      "id": "2106610099720720811",
+      "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-04T20:33:43.000Z",
+      "id": "2106845241357824205",
+      "referenced_tweets": [
+        {
+          "id": "2106610099720720811",
+          "type": "quoted"
+        }
+      ],
+      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-06T20:56:08.000Z",
+      "id": "2107575657014468879",
+      "note_tweet": {
+        "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to improve the experience."
+      },
+      "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-06T20:58:04.000Z",
+      "id": "2107576143285219799",
+      "referenced_tweets": [
+        {
+          "id": "2107575657014468879",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Vote"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-06T21:03:36.000Z",
+      "id": "2107577536779870210",
+      "referenced_tweets": [
+        {
+          "id": "2107574802534052325",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@The_Alex I do like giving resets"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-06T21:07:55.000Z",
+      "id": "2107578625419866469",
+      "referenced_tweets": [
+        {
+          "id": "2107576143285219799",
+          "type": "quoted"
+        }
+      ],
+      "text": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-07T03:35:09.000Z",
+      "id": "2107676072871600470",
+      "note_tweet": {
+        "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!"
+      },
+      "referenced_tweets": [
+        {
+          "id": "2107575657014468879",
+          "type": "quoted"
+        }
+      ],
+      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been https://t.co/mHSI0Pcu4M"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-07T19:19:17.000Z",
+      "id": "2107913674593644711",
+      "referenced_tweets": [
+        {
+          "id": "2107575657014468879",
+          "type": "quoted"
+        }
+      ],
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow! https://t.co/mHSI0PbWfe"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-07T19:19:33.000Z",
+      "id": "2107913738791596286",
+      "referenced_tweets": [
+        {
+          "id": "2107913674593644711",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Will be there by EOD PST."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-08T03:44:55.000Z",
+      "id": "2108040921044639779",
+      "referenced_tweets": [
+        {
+          "id": "2107913674593644711",
+          "type": "quoted"
+        }
+      ],
+      "text": "Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-10T22:15:39.000Z",
+      "id": "2109045220411351517",
+      "text": "Day 6/ Reset"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-10T22:16:20.000Z",
+      "id": "2109045392684032299",
+      "referenced_tweets": [
+        {
+          "id": "2109045220411351517",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Global reset by EOD. May the tokens do good things for you."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-11T01:13:54.000Z",
+      "id": "2109090080497508356",
+      "referenced_tweets": [
+        {
+          "id": "2109045220411351517",
+          "type": "quoted"
+        }
+      ],
+      "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-11T04:01:09.000Z",
+      "id": "2109132167112782291",
+      "referenced_tweets": [
+        {
+          "id": "2109045392684032299",
+          "type": "quoted"
+        }
+      ],
+      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T01:03:25.000Z",
+      "id": "2109812216212099456",
+      "text": "Day 8/ Reset"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T01:03:59.000Z",
+      "id": "2109812360596865224",
+      "referenced_tweets": [
+        {
+          "id": "2109812216212099456",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Global reset landing by EOD PST time. Enjoy"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T05:06:06.000Z",
+      "id": "2109873287853707513",
+      "referenced_tweets": [
+        {
+          "id": "2109812360596865224",
+          "type": "quoted"
+        }
+      ],
+      "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-15T04:55:51.000Z",
+      "id": "2110595484180214059",
+      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-15T04:56:07.000Z",
+      "id": "2110595554036400151",
+      "referenced_tweets": [
+        {
+          "id": "2110595484180214059",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Landing within the next 2 hours"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-15T06:28:13.000Z",
+      "id": "2110618732666257557",
+      "referenced_tweets": [
+        {
+          "id": "2110595554036400151",
+          "type": "quoted"
+        }
+      ],
+      "text": "Done and dusted https://t.co/0fehr43VS4"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-16T23:55:11.000Z",
+      "id": "2111244596131111253",
+      "text": "Day 12/\n\nWe’ve made improvements to Codex &amp; Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits."
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-17T16:20:57.000Z",
+      "id": "2111492673890824348",
+      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-17T16:21:13.000Z",
+      "id": "2111492738025959922",
+      "referenced_tweets": [
+        {
+          "id": "2111492673890824348",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Landing sometime today by EOD PST"
+    }
+  ]
+}

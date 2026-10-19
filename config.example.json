@@ -1,0 +1,5 @@
+{
+  "transport": "webhook",
+  "webhook_url": "",
+  "webhook_secret": ""
+}

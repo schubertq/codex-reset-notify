@@ -1,0 +1,59 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "my-codex-reset-notify",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-16",
+  "workers_dev": true,
+  "observability": {
+    "enabled": true
+  },
+  "ai": {
+    "binding": "AI"
+  },
+  "triggers": {
+    "crons": [
+      "*/5 * * * *"
+    ]
+  },
+  "vars": {
+    "X_ENABLED": "false",
+    "X_TIBO_USER_ID": "1953337039510003712",
+    "X_SUBSCRIPTION_START_AT": "",
+    "FEISHU_APP_ID": "",
+    "RESET_CHAT_ID": "",
+    "ALL_POSTS_CHAT_ID": "",
+    "ALL_POSTS_START_AT": "",
+    "MONITOR_ENABLED": "false",
+    "ADMIN_UNION_ID": "",
+    "X_SUBSCRIPTION_ID": "",
+    "X_WEBHOOK_ID": "",
+    "X_WEBHOOK_URL": ""
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "my-codex-reset-notify",
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "."
+    }
+  ],
+  "queues": {
+    "producers": [
+      {
+        "binding": "NOTIFICATIONS",
+        "queue": "my-codex-reset-notifications"
+      }
+    ],
+    "consumers": [
+      {
+        "queue": "my-codex-reset-notifications",
+        "max_batch_size": 1,
+        "max_batch_timeout": 1,
+        "max_concurrency": 1,
+        "max_retries": 72,
+        "retry_delay": 300,
+        "dead_letter_queue": "my-codex-reset-notifications-dlq"
+      }
+    ]
+  }
+}

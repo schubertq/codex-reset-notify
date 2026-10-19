@@ -1,0 +1,4 @@
+# 仅用于本地开发；填写自己的凭据，不要提交真实值。
+FEISHU_APP_SECRET=
+X_OAUTH2_CLIENT_SECRET=
+X_BEARER_TOKEN=
